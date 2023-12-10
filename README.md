@@ -11,7 +11,8 @@ Evaluation in Multilingual Settings**
 
 ### Datasets
 
-Download the datasets from DSTC11.
+Download the datasets from DSTC11 into the Datasets directory.
+Include the DSTC_11_Track_4 directory within the Datasets directory.
 
 ### SEE dataset
 
