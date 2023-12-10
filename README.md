@@ -9,6 +9,27 @@ that was used to produce the tests in the paper
 **MEEP: Is this Engaging? Prompting Large Language Models for Dialogue
 Evaluation in Multilingual Settings**
 
+
+### Directory Structure
+
+The directory structure should include a Datasets directory and Results directory at the
+same level as the Evaluation directory 
+
+.
+|___ MEEP
+       |___ Datasets
+                |___ DSTC_11_Track_4
+                        |___ ...
+                            .
+                            .
+                            .
+        |___ Evaluation
+                |___ preprocessors
+                        .
+                        .
+                        .
+        |___ Results
+
 ### Datasets
 
 Download the datasets from DSTC11 into the Datasets directory.
