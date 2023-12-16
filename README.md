@@ -7,21 +7,19 @@ that was used to produce the tests in the paper
 
  
 [**MEEP: Is this Engaging? Prompting Large Language Models for Dialogue
-Evaluation in Multilingual Settings**]
-(https://aclanthology.org/2023.findings-emnlp.137/)
+Evaluation in Multilingual Settings**](https://aclanthology.org/2023.findings-emnlp.137/)
 
 ### Directory Structure
 
 The directory structure should include a Datasets directory and Results directory at the
 same level as the Evaluation directory 
 
-. <br>
-|___ MEEP <br>
-       |___ Datasets
-
-                |___ DSTC_11_Track_4
-
-                        |___ ...
+>. <br>
+>|___ MEEP <br>
+>       |___ Datasets
+>
+>                |___ DSTC_11_Track_4
+>                        |___ ...
 
                             .
 
