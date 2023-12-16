@@ -15,10 +15,7 @@ The directory structure should include a Datasets directory and Results director
 same level as the Evaluation directory 
 
 >
-> .
->
-> |___ MEEP
->
+>    MEEP
 >       |___ Datasets
 >                |___ DSTC_11_Track_4
 >                        |___ ...
