@@ -14,8 +14,8 @@ Evaluation in Multilingual Settings**](https://aclanthology.org/2023.findings-em
 The directory structure should include a Datasets directory and Results directory at the
 same level as the Evaluation directory 
 
->. <br>
->|___ MEEP <br>
+>.
+>|___ MEEP
 >       |___ Datasets
 >
 >                |___ DSTC_11_Track_4
