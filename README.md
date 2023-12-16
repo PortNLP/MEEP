@@ -13,8 +13,8 @@ published in EMNLP 2023 Findings.
 
 ### Directory Structure
 
-The directory structure should include a Datasets directory and Results directory at the
-same level as the Evaluation directory 
+The directory structure should include a Datasets directory at the
+same level as the Evaluation directory.
 
 <ul>
     <li>MEEP</li>
@@ -50,7 +50,7 @@ Include the DSTC_11_Track_4 directory within the Datasets directory.
 
 ### SEE dataset
 
-Code for random selection of samples from the SEE dataset is in `see_selector.py`. This is to show our process, but will create a different dataset than the one we used. To recreate our dataset, use `see_subset_maker.py`. Be sure to use the same file structure found in the DSTC11 data.
+Code for random selection of samples from the SEE dataset is in `see_selector.py`. This is to show our process, but will create a different dataset than the one we used. To recreate our dataset, use `see_subset_maker.py`. Use the same file structure found in the DSTC11 data.
 
 ### Citation
 
